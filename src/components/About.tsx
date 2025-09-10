@@ -16,8 +16,7 @@ const About = () => {
           <h2 className="text-4xl font-bold text-foreground mb-4">About Me</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             I am a dedicated researcher and developer with expertise in computational social science, 
-            data analytics, and software development. Currently pursuing advanced studies in Social Data Science 
-            while actively contributing to research on.
+            data analytics, and software development.
           </p>
         </div>
 

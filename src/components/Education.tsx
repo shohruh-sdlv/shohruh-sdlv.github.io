@@ -10,6 +10,12 @@ const Education = () => {
       period: "2024 – Exp. 2026",
       location: "Vienna, Austria",
       coursework: [
+        "Machine Learning with Graphs",
+        "Advanced Machine Learning",
+        "Text as Data",
+        "Network Science",
+        "Agent-Based Models",
+        "Queer Theory",
         "Data Mining and Big Data Analytics",
         "Scientific Python",
         "Applied Statistics",
@@ -26,13 +32,12 @@ const Education = () => {
       location: "Tashkent, Uzbekistan",
       coursework: [
         "Machine Learning and Data Analytics",
-        "Advanced Client-Side Development",
-        "Client-Server Architectures",
         "Project Management",
-        "Database Systems",
-        "Business Analytics",
         "Information Security",
-        "Object Oriented Programming"
+        "Developing Digital Enterprise",
+        "Internet Law",
+        "Mathematics for Computing",
+        "Business Information Systems Project"
       ],
       status: "Completed"
     },
@@ -42,9 +47,12 @@ const Education = () => {
       period: "2022 – 2023",
       location: "London, UK",
       coursework: [
-        "Advanced Computer Science Concepts",
-        "Software Engineering Principles",
-        "Research Methodologies"
+        "Advanced Client-Side Development",
+        "Client-Server Architectures",
+        "Database Systems",
+        "Business Analytics",
+        "Object Oriented Programming",
+        "Software Development Group Project"
       ],
       status: "Exchange"
     }

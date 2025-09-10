@@ -12,12 +12,6 @@ const Hero = () => {
     }
   };
 
-  const scrollToContact = () => {
-    const element = document.getElementById("contact");
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" });
-    }
-  };
 
   return (
 <section className="relative min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 overflow-hidden bg-transparent">
@@ -76,7 +70,7 @@ const Hero = () => {
           </Button>
           <Button variant="ghost" size="sm" asChild>
             <a
-              href="https://github.com/shohruhsadullaev"
+              href="https://github.com/shohruh-sdlv"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary"

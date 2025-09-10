@@ -22,7 +22,7 @@ const Contact = () => {
                 <h3 className="text-lg font-semibold text-foreground">Email</h3>
               </div>
               <p className="text-muted-foreground mb-4">
-                Best way to reach me for academic discussions and opportunities
+                Best way to reach me
               </p>
               <Button variant="outline" asChild className="w-full">
                 <a href="mailto:shohruh.sdlv@gmail.com">
@@ -39,7 +39,7 @@ const Contact = () => {
                 <h3 className="text-lg font-semibold text-foreground">LinkedIn</h3>
               </div>
               <p className="text-muted-foreground mb-4">
-                Connect with me professionally and see my latest updates
+                Connect with me and see my latest updates
               </p>
               <Button variant="outline" asChild className="w-full">
                 <a 

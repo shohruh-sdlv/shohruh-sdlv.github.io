@@ -23,8 +23,8 @@ const Experience = () => {
       location: "Remote",
       type: "Research",
       responsibilities: [
-        "Contributed to the Gender Digital Divide Index (GDDI) Project",
-        "Conducted desk research on gender digital disparities in Uzbekistan, sourcing data from government and credible online sources"
+        "Produced a research report for the Gender Digital Divide Index (GDDI) Project.",
+        "Conducted desk research on gender digital disparities in Uzbekistan, compiling data from government reports and other credible online sources."
       ]
     },
     {
@@ -47,9 +47,8 @@ const Experience = () => {
       location: "London, UK",
       type: "Development",
       responsibilities: [
-        "Worked in university's mobile web development project",
-        "Demonstrated expert coding knowledge of JavaScript, SQL and C#",
-        "Delivered front-end development across mobile and desktop web applications using jQuery Mobile and ASP.NET 6"
+        "Developed a university language-learning web application using JavaScript, SQL, and C#,",
+        "Delivered front-end development across mobile and desktop web applications using jQuery Mobile and ASP.NET 6.",
       ]
     },
     {
